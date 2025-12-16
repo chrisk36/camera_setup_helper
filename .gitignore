@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Build outputs
+build/
+*.bin
+*.elf
+*.map
+
+# OS junk
+.DS_Store
